@@ -1,0 +1,12 @@
+a:link {color:deepskyblue; text-decoration: none;} 
+a:visited {color: black;}
+a:hover {color: firebrick; text-decoration: underline;}
+a:active {color: darkblue;}
+h1{font-family: fantasy, monospace;}
+h2{font-family: cursive;}
+h2{text-decoration-line: underline;}
+body {background-color: coral;}
+h1{text-align: center}
+a{font-family: sans-serif;}
+p{font-size: 16; font-family: sans-serif;}
+li{font-size: 16 }
