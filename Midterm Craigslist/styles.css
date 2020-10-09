@@ -1,12 +1,15 @@
 a:link {color:deepskyblue; text-decoration: none;} 
-a:visited {color: black;}
+a:visited {color:black;}
 a:hover {color: firebrick; text-decoration: underline;}
+
 a:active {color: darkblue;}
-h1{font-family: fantasy, monospace;}
-h2{font-family: cursive;}
+a{font-size: 20}
+h1{font-family: inherit;}
+h2{font-family: serif;}
 h2{text-decoration-line: underline;}
-body {background-color: coral;}
-h1{text-align: center}
+body{background-color: aliceblue}
+h1{text-align: center; background-color: bisque;}
 a{font-family: sans-serif;}
 p{font-size: 16; font-family: sans-serif;}
-li{font-size: 16 }
+p2{font-family: sans-serif;font-size: 20;}
+p3{font-family: sans-serif;font-size: 20;}
